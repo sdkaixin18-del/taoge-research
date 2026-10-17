@@ -2,7 +2,7 @@
   "author": "股市-桃哥复盘",
   "uid": 625315686,
   "start": "2026-07-01",
-  "asof": "2026-09-20",
+  "asof": "2026-10-17",
   "videos": [
     {
       "date": "2026-07-01",
@@ -118,19 +118,19 @@
     },
     {
       "date": "2026-07-21",
-      "bvid": "BV1pMKt6AEwh",
-      "url": "https://www.bilibili.com/video/BV1pMKt6AEwh/",
-      "title": "极弱以后必有极强，神级抄底",
-      "duration_seconds": 41,
-      "summary": "7/21盘中：称买入铜冠铜箔、东山、中证2000和芯片相关标的；强调德明利、铜冠铜箔不再封死跌停，压制解除。"
-    },
-    {
-      "date": "2026-07-21",
       "bvid": "BV1HeKb6NE45",
       "url": "https://www.bilibili.com/video/BV1HeKb6NE45/",
       "title": "极强反弹够强吧",
       "duration_seconds": 145,
       "summary": "7/21收盘：极弱后强反弹，称中证2000ETF约1.18买入，画面收盘1.296；选择继续持有，认为强反弹与阴跌中的一日反抽不同。"
+    },
+    {
+      "date": "2026-07-21",
+      "bvid": "BV1pMKt6AEwh",
+      "url": "https://www.bilibili.com/video/BV1pMKt6AEwh/",
+      "title": "极弱以后必有极强，神级抄底",
+      "duration_seconds": 41,
+      "summary": "7/21盘中：称买入铜冠铜箔、东山、中证2000和芯片相关标的；强调德明利、铜冠铜箔不再封死跌停，压制解除。"
     },
     {
       "date": "2026-07-22",
@@ -390,19 +390,19 @@
     },
     {
       "date": "2026-09-07",
-      "bvid": "BV1rGbP6QEwE",
-      "url": "https://www.bilibili.com/video/BV1rGbP6QEwE/",
-      "title": "科技大反弹，中际旭创10％",
-      "duration_seconds": 104,
-      "summary": "9/7日常：自述低吸远东；新赛看龙头跳水先卖，随后龙头迅速回封导致卖早；一鸣因另一个票卖早而多留，反而未拉起。两笔之间有明显情绪互相影响。"
-    },
-    {
-      "date": "2026-09-07",
       "bvid": "BV1iUbT69EYB",
       "url": "https://www.bilibili.com/video/BV1iUbT69EYB/",
       "title": "摩尔线程-20％  新股解禁5个时间点",
       "duration_seconds": 125,
       "summary": "9/7专题：讲解新股不同批次解禁时点，以摩尔线程为例；属于事件机制讨论，没有明确自述当日买入。解禁比例和期限应以各公司公告核验，不能一概套用。"
+    },
+    {
+      "date": "2026-09-07",
+      "bvid": "BV1rGbP6QEwE",
+      "url": "https://www.bilibili.com/video/BV1rGbP6QEwE/",
+      "title": "科技大反弹，中际旭创10％",
+      "duration_seconds": 104,
+      "summary": "9/7日常：自述低吸远东；新赛看龙头跳水先卖，随后龙头迅速回封导致卖早；一鸣因另一个票卖早而多留，反而未拉起。两笔之间有明显情绪互相影响。"
     },
     {
       "date": "2026-09-08",
@@ -483,6 +483,183 @@
       "title": "新股一天涨250％，市值盘中突破2600亿",
       "duration_seconds": 50,
       "summary": "9/18：记录新股日内暴涨，未发现明确自述买入，不能算作他的盈利交易。"
+    },
+    {
+      "date": "2026-09-21",
+      "bvid": "BV1hThi6AE2u",
+      "url": "https://www.bilibili.com/video/BV1hThi6AE2u/",
+      "title": "财联社被收购 华字辈跟涨",
+      "duration_seconds": 205,
+      "summary": "00:08—00:36讨论新华题材，自述反应较慢后买新华医疗及新华都；00:38—00:58讨论中材低吸与尾盘拉升的隔夜风险；01:00—01:16补述此前国芳分三笔退出；01:18—01:38称原有持仓周末遇减持；02:04以后讨论新股风险和次日计划，不记为买入新股。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:08—00:58；01:00—01:38；02:04—03:24",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-09-21_BV1hThi6AE2u/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-09-22",
+      "bvid": "BV1och76WEQP",
+      "url": "https://www.bilibili.com/video/BV1och76WEQP/",
+      "title": "指数高开低走，新股尾盘又来",
+      "duration_seconds": 173,
+      "summary": "00:36—01:14比较新华传媒、新华制药等与跟随股，自述新华医疗当天退出、新华都盘中冲高退出；01:16—01:30回看中材高开后下跌；01:42—01:52自述买省广并比较蓝色光标；02:02—02:40讨论闽东压异动失败及指数尾盘变化，属于视频补充机制。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:36—01:30；01:42—01:52；02:02—02:40",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-09-22_BV1och76WEQP/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "bvid": "BV17whb6WEpk",
+      "url": "https://www.bilibili.com/video/BV17whb6WEpk/",
+      "title": "明天924行情两周年纪念日",
+      "duration_seconds": 153,
+      "summary": "00:02—00:14自述为次日924先手参与科技；00:16—00:44讨论内蒙新华监管工作函与后排转弱，称竞价已退出；00:46—01:06讲金健、北斗星通退出及省广做T；01:26—02:16讨论新股特殊环境和电影风险。监管与收购归因为作者表达，公告未在本轮完整重建。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:02—01:08；01:26—02:16",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-09-23_BV17whb6WEpk/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-09-24",
+      "bvid": "BV1QdaA65Edz",
+      "url": "https://www.bilibili.com/video/BV1QdaA65Edz/",
+      "title": "924两周年，低开低走4000多绿",
+      "duration_seconds": 108,
+      "summary": "00:00—00:18描述缩量普跌与存量博弈；00:34—01:10自述买新华都，将拉升归于同名及福建题材叠加，并担心尾盘硬拉后的低开；01:12—01:36讲金健被其他情绪股带弱，在负一点多附近退出大部分。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:00—00:18；00:34—01:36",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-09-24_BV1QdaA65Edz/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "bvid": "BV1gea36aEnx",
+      "url": "https://www.bilibili.com/video/BV1gea36aEnx/",
+      "title": "亨通定增秒跌停，创业板-4.5％",
+      "duration_seconds": 119,
+      "summary": "00:02—00:34把科技下跌联系亨通定增消息、板块压力与节前量能；00:36—00:54讨论小市值抱团及内蒙新华监管，称此前退出较快；00:56—01:04回看云南反抽未把握；01:08—01:42明确新股反核想等更低，最终没有跟上。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:02—01:04；01:08—01:58",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-09-28_BV1gea36aEnx/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "bvid": "BV1kWaJ6gE8j",
+      "url": "https://www.bilibili.com/video/BV1kWaJ6gE8j/",
+      "title": "节前1.4万亿新低",
+      "duration_seconds": 89,
+      "summary": "00:06—00:18称澳弘反包但自己挂负7、开在负6而未买到；00:22—00:50讨论转债工具，自述买光启及通鼎，因亨通容量偏大而选较小对象；00:52—01:14讨论电影提前炒预期及不及预期风险；01:16以后描述约1.4万亿量能。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:06—00:50；00:52—01:28",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-09-29_BV1kWaJ6gE8j/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "bvid": "BV1HfHQ6gE14",
+      "url": "https://www.bilibili.com/video/BV1HfHQ6gE14/",
+      "title": "光芯片跌停，A股开门绿",
+      "duration_seconds": 120,
+      "summary": "00:02—00:46讨论光芯片及科技压力，自述看到源杰竞价低开后卖出通鼎；00:48—01:20提出压力对象次日不再跌停、被带下个股可能修复的判断，并给出月底与此前小反弹的两层预期；01:22—01:38称天威电子挂负13，完整成交状态未核实；01:40以后观察中国电影。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:02—01:20；01:22—01:58",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-10-08_BV1HfHQ6gE14/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "bvid": "BV1GApt6sEeV",
+      "url": "https://www.bilibili.com/video/BV1GApt6sEeV/",
+      "title": "大恐慌后深v",
+      "duration_seconds": 93,
+      "summary": "00:02—00:18回看源杰等不再跌停与市场深V；00:22—00:42自述东山、云南在负7点多附近追加，云南当天约10个点为作者自述，不是已核成交收益；00:44以后讨论转债及影视方向，未由观察补记买入。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:02—00:42；00:44—01:02",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-10-09_BV1GApt6sEeV/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "bvid": "BV1Jop96VEWn",
+      "url": "https://www.bilibili.com/video/BV1Jop96VEWn/",
+      "title": "缩量4000亿回调",
+      "duration_seconds": 111,
+      "summary": "00:00—00:24回看缩量下跌和云南，称没有竞价抢跑、经历近负9后收跌约8%；00:26—01:06比较外围、短剧与银行护住指数的分化；01:12—01:26称周末计划低吸江淮但未跟上；01:30以后讨论新股亏损风险。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:00—01:06；01:12—01:26",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-10-12_BV1Jop96VEWn/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "bvid": "BV1jJWA68EcY",
+      "url": "https://www.bilibili.com/video/BV1jJWA68EcY/",
+      "title": "再次深v 低吸的爽了",
+      "duration_seconds": 138,
+      "summary": "00:02—00:30回看深V，自述买兴森、东材等PCB；00:32—01:28比较哈药、金健、国芳等低开与反抽，明确哈药不买，并认为不能只看竞价标示跌幅；01:40—02:08自述跟随消息但没有持续拉升；02:12以后观察中国电影独立走强。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:02—01:28；01:40—02:16",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-10-13_BV1jJWA68EcY/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "bvid": "BV1repC6EEs3",
+      "url": "https://www.bilibili.com/video/BV1repC6EEs3/",
+      "title": "缩量回踩，量能再创年内新低",
+      "duration_seconds": 110,
+      "summary": "00:02—00:36描述深V后再缩量回踩，自评部分PCB格局过头，指出连续下跌转为涨跌交替；00:40—01:10讨论监管低开后的短剧首阴反包；01:14—01:34反思低吸收益有限及金迪克卖得较迟；01:36—01:48称想等电影跳水加仓但未实现。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:02—01:10；01:14—01:48",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-10-14_BV1repC6EEs3/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "bvid": "BV1PxJ16QEtj",
+      "url": "https://www.bilibili.com/video/BV1PxJ16QEtj/",
+      "title": "棒子-9％，某队尾盘出手护",
+      "duration_seconds": 97,
+      "summary": "00:02—00:24讨论外围下跌及沪深300、科创50工具尾盘放量，把护盘归于国家队是作者解释；00:32—00:56回看兴森走弱及ST皇庭分批退出；01:00—01:24自述低吸此前事件冲击的星网宇达及国恩，低开与市场共振；月份与胜面仍属于作者经验判断。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:02—00:24；00:32—01:24",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-10-15_BV1PxJ16QEtj/来源记录.json"
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "bvid": "BV1wNJ96MEFu",
+      "url": "https://www.bilibili.com/video/BV1wNJ96MEFu/",
+      "title": "药明康德跌停，尾盘gjd再护权重",
+      "duration_seconds": 111,
+      "summary": "00:02—00:14、01:42—01:50观察权重ETF尾盘放量；00:16—00:26自述跟随上工；00:28—00:48观察飞行汽车及保隆转债由正股次日预期推动，未明确本人买债；00:52—01:04自述国恩、星网退出并低吸远程股份、仁东控股，仁东反弹未赚钱；01:06—01:22讲金安先退出防补跌；01:24—01:40描述药明及医药冲高回落，具体消息未独立核定。",
+      "source_review": {
+        "method": "全片每2秒内嵌字幕OCR，结合关键帧；非音轨逐字转写",
+        "review_spans": "00:02—01:22；01:24—01:50",
+        "local_source_record": "../课程视频/B站新增_20261017/视频/2026-10-16_BV1wNJ96MEFu/来源记录.json"
+      }
     }
-  ]
+  ],
+  "latest_video": "2026-10-16",
+  "video_count": 73,
+  "day_count": 71,
+  "latest_check": {
+    "date": "2026-10-17",
+    "source": "https://space.bilibili.com/625315686/dynamic",
+    "scope": "按公开动态顺序核对至2026-09-18；新增13条公开投稿，未声称覆盖删除、私密或未显示内容"
+  }
 }
