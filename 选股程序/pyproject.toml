@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "taoge-screen"
+version = "0.2.0"
+description = "Read-only, as-of bounce candidate research"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+data = ["baostock==0.9.4"]
+
+[project.scripts]
+taoge-screen = "taoge_screen.__main__:main"
+
+[tool.setuptools]
+packages = ["taoge_screen"]

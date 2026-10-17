@@ -1,0 +1,51 @@
+{
+  "schema_version": 2,
+  "rule_id": "course-pullback-and-oversold",
+  "description": "课程判断顺序的研究实现；数值为预先固定的操作定义，不是讲师公式。",
+  "history_sessions": 21,
+  "activity_sessions": 20,
+  "trend_sessions": 20,
+  "pullback_sessions": 5,
+  "atr_sessions": 14,
+  "benchmark_symbol": "sh515000",
+  "hypothetical_position_yuan": 100000,
+  "max_daily_participation": 0.001,
+  "strong_pullback": {
+    "require_positive_trend_return": true,
+    "require_nonnegative_trend_excess": true,
+    "require_negative_pullback_return": true
+  },
+  "oversold_bounce": {
+    "min_drawdown_atr": 2.0,
+    "min_pullback_atr": 1.0,
+    "exclude_strong_pullback": true
+  },
+  "entry": {
+    "interval_minutes": 5,
+    "earliest_bar_number": 3,
+    "panic_atr": 0.5,
+    "require_above_vwap": true,
+    "require_break_prior_bar_high": true,
+    "higher_low_bars": 3,
+    "peer_nonfalling_fraction": 0.5,
+    "minimum_peers_for_confirmation": 2,
+    "min_reward_risk_after_cost": 1.5,
+    "one_way_cost_bps": 10.0,
+    "stock_tick": 0.01,
+    "last_entry_bar_number": 42,
+    "max_entries_per_stock_day": 1,
+    "target": "asof_close",
+    "stop": "last_three_completed_bars_low_minus_tick",
+    "execution": "next_bar_open",
+    "same_bar_policy": "ambiguous"
+  },
+  "context_policy": "timestamped_evidence_required_for_ready",
+  "price_basis": "unadjusted",
+  "missing_data_policy": "block_screen_if_reference_missing_otherwise_keep_stock_error",
+  "validation": {
+    "screen_dates": ["2026-10-08", "2026-10-09", "2026-10-12", "2026-10-13", "2026-10-14"],
+    "outcome_dates": ["2026-10-09", "2026-10-12", "2026-10-13", "2026-10-14", "2026-10-15"],
+    "overnight_last_date": "2026-10-16",
+    "purpose": "连续日期、全部19只含未入选对照；日内为价格路径，普通A股另列T+1次日开盘假设"
+  }
+}
