@@ -161,11 +161,12 @@
       "summary_file": "交易模式系统总结.md",
       "anchor": "c06",
       "mapping_file": "课程模式与案例映射.md",
-      "evidence_status": "新增保隆转债的正股次日预期观察，仍未确认本人买债及完整成交链",
+      "evidence_status": "保隆视频明确解释早封及次日一字预期，已补同步分钟；广泰声迅为缺少早封前提的对照，本人债券成交和同条件跨日失败待补",
       "video_ids": [
         "BV1kWaJ6gE8j",
         "BV1wNJ96MEFu"
-      ]
+      ],
+      "intraday_branch": "早封核心的次日一字预期在当日债价中重估"
     }
   ],
   "shared_layers": [
@@ -456,6 +457,23 @@
       "role": "个股与容量工具的市场观察，未见明确本人买入；资金身份未核定",
       "file": "K线与操作对照.md",
       "anchor": "k19"
+    },
+    {
+      "ids": [
+        "K20"
+      ],
+      "name": "低空方向／上工／保隆股债",
+      "course_unit_ids": [
+        "C03",
+        "C06"
+      ],
+      "shared_layers": [
+        "environment",
+        "execution"
+      ],
+      "role": "上工参与自述、保隆债点评及同步分钟价格；首发/发现时刻与本人债券成交未确认",
+      "file": "K线与操作对照.md",
+      "anchor": "k20"
     }
   ],
   "days": [
@@ -2944,7 +2962,14 @@
         "environment",
         "execution"
       ],
-      "supplemental_observations": []
+      "supplemental_observations": [],
+      "intraday_case_update": {
+        "date": "2026-10-18",
+        "file": "低空经济股债联动_20261016.md",
+        "case_id": "K20",
+        "role": "同步价格路径研究，未确认本人债券成交",
+        "expanded_file": "低空候选筛选_20261016.md"
+      }
     }
   ],
   "daily_format": "single_markdown_table",
@@ -2965,8 +2990,8 @@
     ],
     "videos_reprocessed": 41,
     "kline_series": 48,
-    "case_groups": 18,
-    "kline_charts": 25,
+    "case_groups": 19,
+    "kline_charts": 29,
     "system_report": "交易模式系统总结.md",
     "course_case_mapping": "课程模式与案例映射.md",
     "kline_cases": "K线与操作对照.md",
@@ -2984,6 +3009,34 @@
       "quote_series": 14,
       "case_groups": 4,
       "charts": 8
+    },
+    "intraday_supplement": {
+      "date": "2026-10-18",
+      "file": "低空经济股债联动_20261016.md",
+      "case_id": "K20",
+      "valid_instruments": 7,
+      "new_video_count": 0,
+      "expanded_file": "低空候选筛选_20261016.md",
+      "expanded_valid_instruments": 34,
+      "stocks": 24,
+      "bonds": 7,
+      "benchmarks": 3,
+      "added_charts": 3,
+      "source_note": "公社事前讨论与公司披露分级；历史限定样本，保隆等已看过，航宇豪美后补探索",
+      "failure_examples": [
+        "广泰在宽泛价格规则下未获利，正股未涨停，非完整模式同条件失败",
+        "声迅未触发及早追失位，正股未涨停",
+        "保隆午后债回落而正股仍封板，保留执行边界"
+      ],
+      "pattern_clarification": {
+        "date": "2026-10-18",
+        "source_video": "BV1wNJ96MEFu",
+        "span": "00:30—00:40",
+        "premise": "正股早封、事件核心、板块扩散强化次日一字预期",
+        "first_minute_close_at_limit": "09:31 保隆；09:45 万丰",
+        "scope": "原宽泛价格规则与结果保留；缺少早封的对象单列，不据保隆一例估计有效率",
+        "local_record": "../课程视频/低空股债联动_20261016/扩展筛选/早封模式前提分类.json"
+      }
     }
   }
 }
