@@ -2035,5 +2035,20 @@
     "知识点"
   ],
   "update_convention": "每天一行，同日多视频合并；只更新同一个每日总结.md，操作简记、知识点一句。",
-  "path_format": "relative_to_repository_root"
+  "path_format": "relative_to_repository_root",
+  "analysis_update": {
+    "date": "2026-10-17",
+    "course_lessons": [
+      111,
+      127
+    ],
+    "videos_reprocessed": 28,
+    "kline_series": 39,
+    "case_groups": 14,
+    "kline_charts": 17,
+    "system_report": "交易模式系统总结.md",
+    "kline_cases": "K线与操作对照.md",
+    "source_record": "课程实盘对照来源.md",
+    "earlier_reports_preserved": true
+  }
 }
