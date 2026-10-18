@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.json
+!client_config.example.json
+*.jsonl
+*.sqlite3*
+*.log

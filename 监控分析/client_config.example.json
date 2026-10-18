@@ -1,0 +1,5 @@
+{
+  "ssh_config": "~/.ssh/config",
+  "ssh_host": "cb-monitor-shanghai",
+  "ssh_binary": "ssh"
+}

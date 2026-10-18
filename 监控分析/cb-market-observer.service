@@ -1,0 +1,13 @@
+[Unit]
+Description=Silent all-market limit-up data collector (no notifications or news)
+After=network-online.target
+
+[Service]
+Type=simple
+ExecStart=%h/apps/cb-limitup-monitor/.venv/bin/python %h/apps/cb-market-observer/market_observer.py
+Restart=on-failure
+RestartSec=15
+UMask=0077
+
+[Install]
+WantedBy=default.target
